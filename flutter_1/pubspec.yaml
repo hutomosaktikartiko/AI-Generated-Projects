@@ -1,0 +1,26 @@
+name: todo_app
+description: A simple todo list application.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+  uuid: ^4.2.1
+  fluttertoast: ^8.2.4
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  riverpod_generator: ^2.3.9
+  build_runner: ^2.4.7
+
+flutter:
+  uses-material-design: true
