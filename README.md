@@ -9,11 +9,3 @@ Each project is stored in its own folder and includes a detailed README file exp
 ### List of Projects
 
 1. **flutter_1**: A simple To-Do List app with local data storage, built using Flutter and Riverpod for state management.
-
-## Tools Used
-
-- **Cursor**: For generating initial project structure and code.
-- **ChatGPT**: For refining logic and providing additional implementation details.
-- **Flutter**: As the primary framework for building the apps.
-- **Riverpod**: For state management.
-- **Other Packages**: Such as `fluttertoast` for displaying toast messages.
